@@ -11,8 +11,8 @@ void main(){
   print(++y);//postfix value = 7 : 6 = 6 + 1 
 
   print(z--);//postfix value = 20 : 20 = 20 - 1
-  print(z--);//postfix value = 19 : 21 = 19 - 1
+  print(z--);//postfix value = 19 : 20 = 20 - 1
 
   print(--u);//postfix value = 24 : 25 = 25 - 1
-  print(--u);//postfix value = 23 : 26 = 24 - 1
+  print(--u);//postfix value = 23 : 24 = 24 - 1
 }
